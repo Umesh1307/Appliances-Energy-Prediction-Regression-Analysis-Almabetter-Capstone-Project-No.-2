@@ -87,7 +87,7 @@
 3.	This implies Warming appliances have been used to keep the insides of the building warm. There must be some sort of direct correlation between temperature and consumption of energy inside the house. 
 
 
-3.2 Observations (Humidity Features)
+### 3.2 Observations (Humidity Features)
 ![Screenshot (128)](https://user-images.githubusercontent.com/75175373/150628430-a32c68fe-369d-450e-b5a1-b3857fd8e0c4.png)
 ### Fig: Descriptive Statistics (Humidity Features)
 
@@ -103,7 +103,7 @@
 ### 3.3 Observations from Heatmap correlation plot:
 #### a.	Features related to temperature Almost all the temperature measures in different rooms are highly linearly correlated with each other. However, there is little to no correlation between temperature features and target variables.
 #### b.	Features related to humidity Almost all the humidity measures in different rooms are highly linearly correlated with each other. However, there is little to no correlation between humidity features and target variables. 
-###c.	Weather data 
+### c.	Weather data 
 #### Dewpoint shows a higher correlation with most of the temperature and humidity level features than any other weather parameters. However, its correlation with the target variable is low. Pressure, wind speed, and visibility show little correlation with temperature and humidity features as well as the target variable. 
 
 ### Target Variable Distribution:
